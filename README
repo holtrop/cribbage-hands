@@ -1,0 +1,3 @@
+This is a simple script which iterates through all possible cribbage hands
+and scores them. At the end a chart of all possible hand scores, the number
+of hands that had that score, and a sample hand making that score are printed.
